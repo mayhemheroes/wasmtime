@@ -1,0 +1,4 @@
+project: PROJECT
+target: api_calls
+cmds:
+- cmd: /out/api_calls
